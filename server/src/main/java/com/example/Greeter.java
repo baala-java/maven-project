@@ -12,7 +12,9 @@ public class Greeter {
 
   }
 
-  //TODO: Add javadoc comment
+  /*
+  * This is demo method
+  */
   public String greet(final String someone) {
     System.out.println("Test  dfsdfsfsd zxczxcxz");
     return String.format("Hello, %s!", someone);
